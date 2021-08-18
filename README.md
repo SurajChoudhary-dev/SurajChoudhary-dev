@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Suraj Choudhary, a computer science grad, pursuing Full-Stack-Development 🌱
+### This is Suraj Choudhary, a computer science grad, pursuing Full-Stack-Wen-Development 🌱
 ### I’m currently learning (MERN stack) and looking forward to work with product based companies 😄
 👯 I’m looking to collaborate on Open-Source, I would love to exchange words on that ;)
 ### 📫 How to reach me: surajchoudhary.122@gmail.com  📫
